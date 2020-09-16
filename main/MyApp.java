@@ -1,7 +1,7 @@
 package main;
 
 /**
- * Write a description of class MyApp here.
+ * Main 메소드를 작성하는 클래스
  *
  * @author (2017210105 김민수)
  * @version (2020.09.16)
@@ -13,6 +13,7 @@ public class MyApp
         Integer[] array;
         String data = "2,3,5,2,3,10";
         array = makeToken(data);
+        
         Circle c1 = makeCircle(array[0], array[1], array[2]);
         Circle c2 = makeCircle(array[3], array[4], array[5]);
         
