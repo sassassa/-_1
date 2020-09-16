@@ -3,7 +3,7 @@ package main;
 /**
  * Write a description of class MyApp here.
  *
- * @author (2017210105 KimMinsoo)
+ * @author (2017210105 김민수)
  * @version (2020.09.16)
  */
 public class MyApp
